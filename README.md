@@ -6,7 +6,7 @@ En este proyecto se irán subiendo distintos ejercicios pedidos para consolidar 
 
 Listado de ejercicios: 
 - 01: Metodología BEM y Arquitecturas CSS (ITCSS, SMACSS, Atomic Design:
--   Saber estructurar los estilos de un proyecto en combinación con BEM utilizando Sass
+  - Saber estructurar los estilos de un proyecto en combinación con BEM utilizando Sass
 - 02: Gestor global de estados (Redux, Redux toolkit, etc):
   - Gestionar de manera efectiva y eficaz los estados para diferentes features
   - Trabajar los estados en proyectos mediana complejidad que requieran mucho dinamismo, de forma consistente y a escala
