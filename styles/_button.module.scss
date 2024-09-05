@@ -1,0 +1,26 @@
+@import 'variables.module';
+@import 'mixins.module';
+
+.button {
+    background-color: $primary-color;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 20px;
+
+
+    @include border-radius($border-radius);
+    cursor: pointer;
+
+    &--secondary {
+        background-color: $secondary-color;
+    }
+
+    &__icon {
+        margin-right: 8px;
+    }
+
+    &:hover {
+        opacity: 0.8;
+    }
+}
