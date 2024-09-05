@@ -36,7 +36,7 @@ Listado de ejercicios:
 
 El proyecto está dividido en diferentes POCs, cada uno con su propia página y componentes correspondientes.
 
-01-BEM con Sass: Se encuentra en la página pages/bem.tsx.
-02-Redux: Implementación básica de manejo de estado global con Redux Toolkit, disponible en la página pages/redux.tsx.
-03-Accesibilidad: Demostración de navegación accesible por teclado y lectores de pantalla (TalkBack/VoiceOver) en pages/accesibilidad.tsx.
-04-CSS y Tailwind: Comparación entre un sistema de diseño creado con Sass y Tailwind CSS en pages/css.tsx.
+- 01-BEM con Sass: Se encuentra en la página pages/bem.tsx.
+- 02-Redux: Implementación básica de manejo de estado global con Redux Toolkit, disponible en la página pages/redux.tsx.
+- 03-Accesibilidad: Demostración de navegación accesible por teclado y lectores de pantalla (TalkBack/VoiceOver) en pages/accesibilidad.tsx.
+- 04-CSS y Tailwind: Comparación entre un sistema de diseño creado con Sass y Tailwind CSS en pages/css.tsx.
