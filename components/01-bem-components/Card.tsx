@@ -7,7 +7,7 @@ interface CardProps {
     highlighted?: boolean;
 }
 
-const Card: React.FC<CardProps> = ({ title, content, highlighted = false }) => {
+const Card = ({ title, content, highlighted = false }: CardProps) => {
     return (
         <div
             className={`${styles.card} ${

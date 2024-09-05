@@ -7,11 +7,11 @@ interface ButtonProps {
     icon?: React.ReactNode;
 }
 
-const Button: React.FC<ButtonProps> = ({
+const Button = ({
     children,
     variant = 'primary',
     icon,
-}) => {
+}: ButtonProps) => {
     return (
         <button className={`${styles.button} ${styles[`button--${variant}`]}`}>
             {icon && <span className={styles['button__icon']}>{icon}</span>}
