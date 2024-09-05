@@ -33,6 +33,12 @@ const Navbar = () => {
                     >
                         Accesibilidad
                     </Link>
+                    <Link
+                        href="/css"
+                        className="text-gray-300 hover:text-white transition duration-300"
+                    >
+                        Css
+                    </Link>
                 </div>
             </div>
         </nav>
