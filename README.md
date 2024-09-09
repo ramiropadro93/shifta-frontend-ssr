@@ -16,6 +16,9 @@ Listado de ejercicios:
 - 04: CSS:
   - Ser capaz de construir un sistema de diseño básico siguiendo el concepto "utility-first" utilizando Sass u otro preprocesador CSS.
   - Ser capaz de configurar un sistema de diseño en Tailwind CSS.
+- 05: Conceptos, tecnologías y técnicas:
+  - Aplicar algunos de los conceptos tecnológicos mencionados
+  - Uso de alguna librería de formularios como React Hook Forms o FormiK- 
 
 ## Cómo ejecutar
 
